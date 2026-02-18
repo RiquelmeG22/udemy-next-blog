@@ -1,0 +1,7 @@
+import Image from "next/image";
+
+export default function Home() {
+  return (
+   <div>Bom dia NO BLOG</div>
+  );
+}
